@@ -113,10 +113,12 @@ An example of the test simulation is shown below. The small red dot denotes the 
 
 # Dependencies:
 
--Pytorch
+-colcon
 
--Ros2-Iron (robot_state_publisher, sensor_msgs, visualization_msgs, rviz2, xacro)
+-matplotlib
 
 -numpy
 
--matplotlib
+-Pytorch
+
+-Ros2-Iron (robot_state_publisher, sensor_msgs, visualization_msgs, rviz2, xacro)
