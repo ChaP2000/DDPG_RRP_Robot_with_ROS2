@@ -92,14 +92,14 @@ Training:
 
 The average success rate output across the last 100 iterations from iteration 100 is shown in figure 1.
 <p align="center">
-  <img src="images/success_avg.png" width="450">
+  <img src="results/success_avg.png" width="450">
 </p>
 <center>Figure 1. Average training success rate across the last 100 episodes</center>
 
 Testing:
 The average success rate output across the last 100 iterations from iteration 100 is shown in figure 2.
 <p align="center">
-  <img src="images/success_avg_test.png" width="450">
+  <img src="results/success_avg_test.png" width="450">
 </p>
 <center>Figure 2. Average testing success rate across the last 100 episodes</center>
 
@@ -108,7 +108,7 @@ Testing:
 # Video
 An example of the test simulation is shown below. The small red dot denotes the target position that the end effector of the robot must reach before truncation.
 
-![demo](images/rviz2_simulation.gif)
+![demo](results/rviz2_simulation.gif)
 
 
 # Dependencies:
